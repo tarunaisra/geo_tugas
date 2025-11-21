@@ -46,5 +46,5 @@ GeoCatatan is a Flutter-based mobile application that allows users to create and
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## Tampilan Aplikasi
+## Priview App
 ![GeoCatatan Screenshot](assets/foto.jpg)
